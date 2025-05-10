@@ -7,9 +7,13 @@ Welcome to the repository of Green Guardian, a Smart Disposal Machine built to m
 The Smart Disposal Machine (SDM) is an innovative solution for waste handling that automatically:
 
 -->Detects waste using a USB camera
+
 -->Classifies it using AI (Gemini 1.5)
+
 -->Compresses it with a lead screw mechanism.
+
 -->Sorts it into the appropriate category (biodegradable, recyclable, or non-recyclable).
+
 -->Monitors fill levels and notifies users in real-time via a web dashboard.
 
 It is ideal for use in schools, campuses, offices, and smart cities, offering contactless interaction, increased efficiency, and scalable infrastructure for sustainable waste management.

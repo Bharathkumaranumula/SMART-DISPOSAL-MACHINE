@@ -4,6 +4,7 @@ Welcome to the repository of Green Guardian, a Smart Disposal Machine built to m
 
 
 🚀 Project Overview
+
 The Smart Disposal Machine (SDM) is an innovative solution for waste handling that automatically:
 
 -->Detects waste using a USB camera
@@ -21,28 +22,42 @@ It is ideal for use in schools, campuses, offices, and smart cities, offering co
 
 🧠 Key Features
 ✅ AI-Powered Waste Classification: Utilizes Google Gemini 1.5 to categorize waste into proper compartments.
+
 📆 Automated Compression : Reduces volume using a lead screw and NEMA17 stepper motor for extended storage capacity.
+
 📡 IoT Monitoring : Ultrasonic sensors track bin levels in real-time and update a web dashboard (Streamlit).
+
 🧬 Hygienic Operation : Touchless lid operation with IR sensors and servos minimizes contamination risk.
+
 🗌 Web Dashboard : Real-time status with color indicators and bin location mapping. Includes unique bin IDs and notification alerts.
 
 
 🛠️ Technical Stack
 Component                                          Description
+
 AI Model                                       Gemini 1.5 (Google)
+
 Microcontrollers                               Raspberry Pi 4, Arduino Uno
+
 Sensors                                        Ultrasonic, IR Proximity
+
 Motors                                         SG90 Servo, MG995 Servo, NEMA17 Stepper
+
 Mechanism                                      Lead Screw Compression + Flap-based Redirection
+
 Software                                       Python, Streamlit Dashboard
+
 Communication                                  USB Camera, IoT-based Monitoring
 
 
 🔮 Future Enhancements
-Integration with smart city waste routing systems.
-Detection of hazardous and electronic waste.
-Full automation of waste pickup via robotics.
-More efficient deep-learning classification models.
+-->Integration with smart city waste routing systems.
+
+-->Detection of hazardous and electronic waste.
+
+-->Full automation of waste pickup via robotics.
+
+-->More efficient deep-learning classification models.
 
 🤝 Contributions
 We welcome contributions from developers, engineers, and researchers. Feel free to fork the repo, open issues, or submit pull requests!

@@ -21,6 +21,7 @@ It is ideal for use in schools, campuses, offices, and smart cities, offering co
 
 
 🧠 Key Features
+
 ✅ AI-Powered Waste Classification: Utilizes Google Gemini 1.5 to categorize waste into proper compartments.
 
 📆 Automated Compression : Reduces volume using a lead screw and NEMA17 stepper motor for extended storage capacity.
@@ -33,24 +34,26 @@ It is ideal for use in schools, campuses, offices, and smart cities, offering co
 
 
 🛠️ Technical Stack
+
 Component                                          Description
 
-AI Model                                       Gemini 1.5 (Google)
+AI Model      -----------------                                 Gemini 1.5 (Google)
 
-Microcontrollers                               Raspberry Pi 4, Arduino Uno
+Microcontrollers      --------------------                         Raspberry Pi 4, Arduino Uno
 
-Sensors                                        Ultrasonic, IR Proximity
+Sensors          ----------------------                              Ultrasonic, IR Proximity
 
-Motors                                         SG90 Servo, MG995 Servo, NEMA17 Stepper
+Motors           ----------------------                              SG90 Servo, MG995 Servo, NEMA17 Stepper
 
-Mechanism                                      Lead Screw Compression + Flap-based Redirection
+Mechanism           ---------------------                            Lead Screw Compression + Flap-based Redirection
 
-Software                                       Python, Streamlit Dashboard
+Software             -------------------------                          Python, Streamlit Dashboard
 
-Communication                                  USB Camera, IoT-based Monitoring
+Communication            -----------------------                      USB Camera, IoT-based Monitoring
 
 
 🔮 Future Enhancements
+
 -->Integration with smart city waste routing systems.
 
 -->Detection of hazardous and electronic waste.

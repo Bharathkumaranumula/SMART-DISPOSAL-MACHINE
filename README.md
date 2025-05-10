@@ -68,6 +68,10 @@ USB Camera, IoT-based Monitoring
 
 Integration with smart city waste routing systems
 
+🤝 Contributions
+
+We welcome contributions from developers, engineers, and researchers. Feel free to fork the repo, open issues, or submit pull requests!
+
 Detection of hazardous and electronic waste
 
 Full automation of waste pickup via robotics

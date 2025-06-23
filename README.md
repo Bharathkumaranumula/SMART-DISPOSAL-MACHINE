@@ -35,7 +35,7 @@ It is ideal for use in schools, campuses, offices, and smart cities, offering co
 
 🛠️ Technical Stack
 
-Component                                          Description
+Component&                                         Description
 
 AI Model      -----------------                                 Gemini 1.5 (Google)
 
